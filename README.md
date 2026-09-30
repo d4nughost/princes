@@ -17,10 +17,9 @@
 ## ✨
 
 - 🎵 **Musik Latar** — Memutar lagu *Forever Young* secara otomatis setelah interaksi.
-- 💗 **Tombol Love Interaktif** — Sentuh tombol love untuk memulai pengalaman.
+- 💗 **Tombol Love Interaktif** — Sentuh tombol love untuk memulai.
 - 🖼️ **Swiper Slider** — Navigasi antar slide dengan efek smooth transition.
 - 📜 **Sertifikat Digital** — Sertifikat penghargaan dengan desain khusus.
 - ⌨️ **Efek TypeIt** — Animasi teks mengetik.
 - 🎨 **Animasi & Emoji** — Emoji berjatuhan dan animasi stiker lucu.
-- 🖼️ **Foto Berjejer** — 3 foto berjejer di bawah tombol love.
 - 📱 **Responsive** — Tampil optimal di HP maupun desktop.
