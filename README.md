@@ -8,9 +8,16 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
 
-# Sebuah halaman web interaktif romantis yang menampilkan **sertifikat penghargaan** untuk seseorang spesial. Dibuat dengan tampilan animasi slide, efek ketik, musik latar, dan tombol love yang interaktif. 💖
+Sebuah halaman web interaktif romantis yang menampilkan **sertifikat penghargaan** untuk seseorang spesial. Dibuat dengan tampilan animasi slide, efek ketik, musik latar, dan tombol love yang interaktif. 💖
 
 ![Preview](https://feeldreams.github.io/wp9.jpg)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Coba langsung di sini:**  
+👉 **[https://d4nughost.github.io/princes/princes.html](https://d4nughost.github.io/princes/princes.html)**
 
 ---
 
@@ -23,8 +30,3 @@
 - ⌨️ **Efek TypeIt** — Animasi teks mengetik.
 - 🎨 **Animasi & Emoji** — Emoji berjatuhan dan animasi stiker lucu.
 - 📱 **Responsive** — Tampil optimal di HP maupun desktop.
-
-# TAMPILAN DEMO
-# ====================
-**https://d4nughost.github.io/princes/princes.html**
-# ====================
