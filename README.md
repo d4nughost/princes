@@ -8,13 +8,13 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
 
-Sebuah halaman web interaktif romantis yang menampilkan **sertifikat penghargaan** untuk seseorang spesial. Dibuat dengan tampilan animasi slide, efek ketik, musik latar, dan tombol love yang interaktif. 💖
+# Sebuah halaman web interaktif romantis yang menampilkan **sertifikat penghargaan** untuk seseorang spesial. Dibuat dengan tampilan animasi slide, efek ketik, musik latar, dan tombol love yang interaktif. 💖
 
 ![Preview](https://feeldreams.github.io/wp9.jpg)
 
 ---
 
-## ✨ Fitur
+## ✨
 
 - 🎵 **Musik Latar** — Memutar lagu *Forever Young* secara otomatis setelah interaksi.
 - 💗 **Tombol Love Interaktif** — Sentuh tombol love untuk memulai pengalaman.
